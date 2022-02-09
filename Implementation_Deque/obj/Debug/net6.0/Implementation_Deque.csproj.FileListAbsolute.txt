@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\bin\Debug\net6.0\Implementation_Deque.exe
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\bin\Debug\net6.0\Implementation_Deque.deps.json
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\bin\Debug\net6.0\Implementation_Deque.runtimeconfig.json
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\bin\Debug\net6.0\Implementation_Deque.dll
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\bin\Debug\net6.0\ref\Implementation_Deque.dll
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\bin\Debug\net6.0\Implementation_Deque.pdb
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.AssemblyInfo.cs
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.dll
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\ref\Implementation_Deque.dll
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.pdb
+C:\Users\HP\source\repos\Implementation_Deque\Implementation_Deque\obj\Debug\net6.0\Implementation_Deque.genruntimeconfig.cache
